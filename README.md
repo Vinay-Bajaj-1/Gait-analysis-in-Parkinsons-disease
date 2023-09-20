@@ -1,5 +1,5 @@
 # Objective
-To develop a Machine Learning model that can predict freezing of gait in parkinson's disease.
+To develop a Machine Learning model that can predict freezing of gait in parkinson's disease using multimodal dataset.
 
 
 # Overview about the project
